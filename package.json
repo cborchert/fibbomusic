@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "tinymusic": "^1.0.0"
+  },
+  "name": "music",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  }
+}
